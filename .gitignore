@@ -1,0 +1,12 @@
+bin
+*.obj
+*.ncb
+*.suo
+*.ipch
+*.user
+*Release*
+*Debug*
+*.exe
+*.sdf
+*.opensdf
+*.base64

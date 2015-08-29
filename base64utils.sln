@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "base64decoder", "base64decoder\base64decoder.vcxproj", "{03D2D066-BA4E-4177-9F6D-193D0A57EF40}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "base64encoder", "base64encoder\base64encoder.vcxproj", "{54F0241C-0A13-4882-BF2D-B448DD592CCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03D2D066-BA4E-4177-9F6D-193D0A57EF40}.Debug|Win32.ActiveCfg = Debug|Win32
+		{03D2D066-BA4E-4177-9F6D-193D0A57EF40}.Debug|Win32.Build.0 = Debug|Win32
+		{03D2D066-BA4E-4177-9F6D-193D0A57EF40}.Release|Win32.ActiveCfg = Release|Win32
+		{03D2D066-BA4E-4177-9F6D-193D0A57EF40}.Release|Win32.Build.0 = Release|Win32
+		{54F0241C-0A13-4882-BF2D-B448DD592CCF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{54F0241C-0A13-4882-BF2D-B448DD592CCF}.Debug|Win32.Build.0 = Debug|Win32
+		{54F0241C-0A13-4882-BF2D-B448DD592CCF}.Release|Win32.ActiveCfg = Release|Win32
+		{54F0241C-0A13-4882-BF2D-B448DD592CCF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
